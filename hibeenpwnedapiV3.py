@@ -32,11 +32,11 @@ signal.signal(signal.SIGINT,handler)
 
 # Banner Info
 def show_banner():
-  print('####################################################################')
-  print('###                  HIBPWNED API CHECKER V3                     ###')
-  print('###                                                              ###')
-  print('###  Usage: hibpwnedapiv3.py -e email|-f textFile|-d domain/All  ###')
-  print('####################################################################\n')
+  print('#####################################################################')
+  print('###                  HIBPWNED API CHECKER V3                      ###')
+  print('###                                                               ###')
+  print('### Usage: hibeenpwnedapiv3.py -e email|-f textFile|-d domain/All ###')
+  print('#####################################################################\n')
 
 # Help Menu
 def show_help():
