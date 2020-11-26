@@ -14,6 +14,10 @@ To search all the domains breached on HIBPWNED: python hibeenpwnedapiv3.py -d Al
 To search for an especific domain: python hibeenpwnedapiv3.py -d domain.com
 
 References:
+
 https://haveibeenpwned.com/API/v3
+
 https://github.com/m0nkeyplay
+
 https:/gist.github.com/mikerr/6389549
+
