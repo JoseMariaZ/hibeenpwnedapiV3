@@ -183,4 +183,4 @@ if __name__ == '__main__':
         check_domain(chkIt)
     # Something really interesting happened
     else:
-        print('Unknow error, please check th API key and the headers.')
+        print('Unknow error, please check the API key and the headers.')
