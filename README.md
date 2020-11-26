@@ -1,7 +1,7 @@
 # hibeenpwnedapiV3
 Tool to search on haveibeenpwned API V3
 
-To register get API key: https://haveibeenpwned.com/API/Key
+To get the API key: https://haveibeenpwned.com/API/Key
 
 Usage:
 
