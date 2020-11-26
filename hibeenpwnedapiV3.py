@@ -114,7 +114,7 @@ def check_paste(eml):
         data = r.json()
         print('Error: <%s>  %s'%(str(r.status_code),data['message']))
         exit()
-
+# Check Domain
 def check_domain(dm1):
     if dm1=='All':
         url = 'https://haveibeenpwned.com/api/v3/breaches'
