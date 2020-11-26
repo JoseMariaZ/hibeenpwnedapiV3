@@ -35,7 +35,7 @@ def show_banner():
   print('#####################################################################')
   print('###                  HIBPWNED API CHECKER V3                      ###')
   print('###                                                               ###')
-  print('### Usage: hibeenpwnedapiv3.py -e email|-f textFile|-d domain/All ###')
+  print('### Usage: hibeenpwnedapiV3.py -e email|-f textFile|-d domain/All ###')
   print('#####################################################################\n')
 
 # Help Menu
